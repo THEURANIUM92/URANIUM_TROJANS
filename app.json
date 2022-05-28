@@ -1,9 +1,9 @@
 {
-  "name": "𝙽𝙾𝙱𝙸𝚃𝙰_𝚇𝙳",
+  "name": "ᴛʜᴇ_ᴜʀᴀɴɪᴜᴍ",
   "description": "A Telegram Bot to play audios and videos in telegram videochats.",
   "keywords": ["music", "voicechat", "telegram"],
-  "logo": "https://te.legra.ph/file/088e7be378ea5a5fc2854.jpg",
-  "repository": "https://github.com/kuldiprathod/Nobita_Music_Xd",
+  "logo": "https://telegra.ph/file/797a3b5d0b1f89f5ae485.jpg",
+  "repository": "https://github.com/THEURANIUM92/URANIUM_TROJANS",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -25,12 +25,12 @@
     "SUPPORT": {
       "description": "Username of the chat where users will go and disturb you.(without @)",
       "required": true,
-      "value": "AAPLI_YAARI"
+      "value": "TROJANS_GALAXY"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID",
       "required": true,
-      "value": "5275980328"
+      "value": "5049848394"
     }
   }
 }
