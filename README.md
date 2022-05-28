@@ -8,12 +8,12 @@
 
 ### Deploy To Railway
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/kuldiprathod/Nobita_Music_Xd)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/THEURANIUM92/URANIUM_TROJANS)
 
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kuldiprathod/Nobita_Music_Xd)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/THEURANIUM92/URANIUM_TROJANS)
 
 
 
@@ -25,4 +25,4 @@
 
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
-#### Main Developer = [ᴛʜᴇ_ᴛʀᴏᴊᴀɴs](https://t.me/THE_TROJANS)
+#### Main Developer = [ᴛʜᴇ_ᴜʀᴀɴɪᴜᴍ](https://t.me/THE_URANIUM)
